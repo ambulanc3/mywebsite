@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ambulanc3.github.io/mywebsite/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ambulanc3.github.io/mywebsite/</loc>
+</url>
+<url>
+<loc>https://ambulanc3.github.io/mywebsite/contact-page.html</loc>
+<lastmod>2024-09-03T08:13:32+02:00</lastmod>
+</url>
+<url>
+<loc>https://ambulanc3.github.io/mywebsite/recent.html</loc>
+<lastmod>2024-09-03T08:50:52+02:00</lastmod>
+<image:image>
+<image:loc>https://ambulanc3.github.io/mywebsite/media/posts/3/gallery/pink-flower-thumbnail.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ambulanc3.github.io/mywebsite/media/posts/3/gallery/tulips-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Pink Tulips]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ambulanc3.github.io/mywebsite/media/posts/3/gallery/purple-tulips-thumbnail.webp</image:loc>
+<image:title><![CDATA[Purple Tulips]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ambulanc3.github.io/mywebsite/media/posts/3/gallery/red-roses-thumbnail.webp</image:loc>
+<image:title><![CDATA[Red Roses]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ambulanc3.github.io/mywebsite/media/posts/3/gallery/pink-and-purple-roses-thumbnail.webp</image:loc>
+<image:title><![CDATA[Multiy colour Roses]]></image:title>
+</image:image>
+</url>
+</urlset>
